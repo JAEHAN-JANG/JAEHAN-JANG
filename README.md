@@ -6,52 +6,69 @@
 
 ---
 
-## 🛠 Tech Stack
-- **Backend**: Java, Spring Boot, Node.js, Express
-- **Frontend**: React, Vite, Tailwind CSS
-- **Database**: MySQL
-- **Infra**: Nginx, Docker, PM2
-- **AI / Data**: Python, TensorFlow, U-Net, BERT
+### 🛒 GCShop (가천샵)
+> 대학 수업 프로젝트로 제작한 쇼핑몰 웹 서비스
 
----
+- 상품 조회, 회원 관리, 장바구니, 구매 기능 구현
+- 웹과 데이터베이스 연동 구조 이해
+- MVC 기반 서버 로직 설계 경험
 
-## 📂 Featured Projects
-
-### 🏢 WellBridge 기업 홈페이지 & 관리자 시스템 (단독)
-- 기업 홈페이지 + 관리자(CMS) **단독 설계·구현**
-- JWT 기반 관리자 인증 / 콘텐츠 관리
-- 내부 운영 환경 배포 (실사용)
-
-🔗 https://github.com/JAEHAN-JANG/wellbridge-homepage
+🔗 **Repository & Demo**  
+https://github.com/JAEHAN-JANG/gcshop
 
 ---
 
 ### 🌱 Carbon Neutral Platform (P-Project)
-- 탄소 배출량 계산 및 시각화
-- AI 기반 탄소 감축 가이드
-- **교내 P-실무 프로젝트 최우수팀**
+> 탄소 배출량 계산 및 중립화 지원 웹 서비스
 
-🔗 https://github.com/JAEHAN-JANG/p-carbon-neutral
+- 사용자 입력 기반 탄소 배출량 계산 로직 구현
+- 월별·평균·전월 대비 데이터 비교 및 시각화
+- OpenWeather API, OpenAI API 연동
+- 팀 프로젝트에서 **프론트엔드·백엔드·DB 설계 전반 담당**
 
----
-
-### 🐶🐱 MeongNyang-Care (졸업 프로젝트)
-- 반려동물 피부질환 이미지 분석 AI
-- CNN(U-Net, ResNet) 기반 질환 분류
-- 학과 서버 환경에서 서비스 연동 경험
-
-🔗 https://github.com/JAEHAN-JANG/MeongNyang-Care
+🔗 **Repository & Demo**  
+https://github.com/JAEHAN-JANG/p-carbon-neutral
 
 ---
 
-### 🛒 GCShop
-- 쇼핑몰 웹 서비스
-- 회원·상품·구매 로직 구현
+### 🐶🐱 멍냥케어 (졸업 프로젝트)
+> 반려동물 피부 질환 예측 및 케어 지원 AI 서비스
 
-🔗 https://github.com/JAEHAN-JANG/gcshop
+- AI Hub 대용량 이미지 데이터 기반 피부 질환 분류
+- CNN / U-Net 모델 학습 및 성능 개선
+- 예측 모델을 실제 서비스 기능으로 연동
+- **데이터 수집 → 모델 학습 → 서비스 적용 전 과정 경험**
+
+🔗 **Repository & Demo**  
+https://github.com/JAEHAN-JANG/MeongNyang-Care
 
 ---
 
+### 🏢 WellBridge Homepage
+> 실무 환경에서 진행한 기업 홈페이지 및 관리자 시스템 개발
+
+- React + Spring Boot 기반 서비스 개발
+- 관리자 인증, 파일 업로드, 콘텐츠 관리 기능 구현
+- **실무 환경의 개발 흐름과 유지보수 구조 경험**
+- 회사 코드 비공개
+
+🔗 **Repository & Demo**  
+https://github.com/JAEHAN-JANG/wellbridge-homepage
+
+---
+
+### ⚔️ Quiz Battle
+> Socket.io 기반 실시간 1대1 퀴즈 배틀 웹 서비스
+
+- Node.js(server) + Vanilla JavaScript 기반 서비스 개발
+- socket.io를 활용한 **Room 번호 기반 실시간 1 vs 1 대전 기능 구현**
+- JSON 기반 문제 데이터(정적 DB)를 활용해 서버에서 랜덤 문제 출제
+- 실시간 이벤트 처리, 대기/입장/대결 흐름 설계 경험
+
+🔗 **Repository & Demo**  
+https://github.com/JAEHAN-JANG/Quiz-Battle
+
+---
 ## 🏆 Highlights
 - 실무 기업 홈페이지 & CMS **단독 개발**
 - AI 기반 졸업 프로젝트 수행
