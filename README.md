@@ -57,6 +57,22 @@ https://github.com/JAEHAN-JANG/wellbridge-homepage
 
 ---
 
+### 💸 Lucky Bank & Unlucky Bank
+> 소비 기록을 넘어 피드백을 통해 소비 습관 변화를 유도하는 가계부 웹 앱
+
+- 수입 / 지출 기록, 캘린더 기반 거래 내역 관리 기능 구현
+- **Lucky / Unlucky 모드**를 통한 차별화된 소비 피드백 UX 설계
+- 기간별 필터링, 빠른 거래 등록, 통계 차트 시각화 기능 구현
+- Vue, Tailwind CSS, Chart.js 기반 프론트엔드 개발
+- JSON Server + Railway 기반 백엔드/배포 구조 경험
+- 팀 프로젝트에서 **메인 페이지 달력 기능 및 JSON Server 배포 담당**
+
+🔗 **Repository & Demo**  
+Main Repository: https://github.com/kb7-blackpink/Blackpink_AccountBook  
+Railway Deploy Repository: https://github.com/kb7-blackpink/Blackpink_AccountBook_json-server
+
+---
+
 ### ⚔️ Quiz Battle
 > Socket.io 기반 실시간 1대1 퀴즈 배틀 웹 서비스
 
@@ -69,10 +85,12 @@ https://github.com/JAEHAN-JANG/wellbridge-homepage
 https://github.com/JAEHAN-JANG/Quiz-Battle
 
 ---
+
 ## 🏆 Highlights
 - 실무 기업 홈페이지 & CMS **단독 개발**
 - AI 기반 졸업 프로젝트 수행
 - P-실무 프로젝트 **최우수팀 수상**
+- 가계부 웹 앱 팀 프로젝트 수행 및 **캘린더/배포 기능 담당**
 
 ---
 
