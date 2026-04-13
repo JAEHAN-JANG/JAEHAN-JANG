@@ -106,8 +106,9 @@
 
 ## 📊 GitHub Stats
 
-![Jaehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEHAN-JANG&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAEHAN-JANG&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAEHAN-JANG&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAEHAN-JANG&layout=compact)
 
 <br />
 
